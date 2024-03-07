@@ -1,0 +1,1 @@
+The aim of this project is to deeply understand the meaning of useeffect hook in react. i used MUI Library to add a table and this table automatically every 15 seconds will update all details of currencies.
